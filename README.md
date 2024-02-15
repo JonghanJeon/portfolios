@@ -1,11 +1,35 @@
 # JeonJongHan
 
-## Overall Experiences
+## EDUCATION
 
 ### 부산대학교 IT응용공학과
 <p>2018.03 - 2024.02</p>
-<p>고등학교 시절 아두이노 코딩으로 프로그래밍에 흥미를 느껴 IT응용공학과에 진학했습니다.</p>
-<p>대학에서는 다양한 전공을 탐구하며 프로그래밍 언어, 데이터베이스, 네트워크 등을 학습했고, 특히 백엔드 개발에 집중하며 전문성을 쌓기 위해 노력하고 있습니다.</p>
+
+`3.85 / 4.5`
+
+## SKILLS
+<div>
+<h5>Language</h5>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/pyhon-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB">
+<h5>Backend</h5>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<h5>Frontend</h5>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<h5>Database</h5>
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+</div>
+
+## Overall Experiences
+
+### AI Seminar
+<p>2023.03 - 2023. 05</p>
+<p>재학 중 교내에서 인공지능에 관심있는 학우들과 함께 교수님께 요청하여 격주로 인공지능 세미나를 진행했습니다. 교수님이 내어주신 과제와 DACON 에 게시되어 있는 연습문제들을 해결하며 기초적이고 전반적인 인공지능 지식을 습득하였습니다.</p>
 
 ### Algorithm study
 <p>알고리즘 스터디를 통해 기본적인 알고리즘과 자료구조를 이해하고, 코딩 실력 향상 및 문제 해결 능력 강화를 목표로 노력하고 있습니다.</p>
